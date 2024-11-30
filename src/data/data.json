@@ -1,0 +1,65 @@
+{
+  "staff_person": {
+    "name": "Ramita Choudhary",
+    "position": "Attendant",
+    "Employee_ID": "20197",
+    "Date_of_joining": "02-04-2007",
+    "Nature_of_Association": "Regular",
+    "image": "/assets/S1.jpg"
+  },
+  "Vice_Principal": {
+    "name": "Dr. Manisha Sharma",
+    "position": "(Vice Principal & Head Training and Placement Cell)",
+    "Phone": "0788-2356790",
+    "Mobile": 9425234261,
+    "Email": "tpo@bitdurg.ac.in",
+    "image": "/assets/P1.png"
+  },
+  "TIP_Members": [
+    {
+      "name": "Dr. Pushpendra Singh",
+      "Department": "Electronics and Telecommunication Engineering",
+      "image": "/assets/TNP-1.png"
+    },
+    {
+      "name": "Dr. Manish Kumar",
+      "Department": "Mechanical Engineering",
+      "image": "/assets/TNP-2.jpeg"
+    },
+    {
+      "name": "Dr. Judith Nagar",
+      "Department": "Management",
+      "image": "/assets/TNP-3.jpeg"
+    },
+    {
+      "name": "Dr. Shweta Kharya",
+      "Department": "Computer Applications",
+      "image": "/assets/TNP-4.jpeg"
+    },
+    {
+      "name": "Mr. Revati Raman Dewangan",
+      "Department": "Computer Science and Engineering",
+      "image": "/assets/TNP-5.jpeg"
+    },
+    {
+      "name": "Mrs. Babita Verma",
+      "Department": "Information Technology",
+      "image": "/assets/TNP-6.jpeg"
+    },
+    {
+      "name": "Mr. Shashank Tiwari",
+      "Department": "Electrical Engineering",
+      "image": "/assets/TNP-7.jpeg"
+    },
+    {
+      "name": "Mr. Tushar Saxena",
+      "Department": "Civil Engineering",
+      "image": "/assets/TNP-8.jpeg"
+    },
+    {
+      "name": "Mr. Abhishek Kumar Agrawal",
+      "Department": "Electrical & Electronics Engineering",
+      "image": "/assets/TNP-9.jpeg"
+    }
+  ]
+}
