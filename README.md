@@ -8,7 +8,7 @@ filling registration form
 ![image](https://github.com/user-attachments/assets/9d01b193-ed01-4751-9c9c-f03c22125858)
 
 
-regisstrations collection on firestore database
+registrations collection on firestore database 
 ![image](https://github.com/user-attachments/assets/bbb3fad9-5efb-4bd7-88c5-4a4aa019d923)
 
 Staff and TnP and Principal sections navigation made possible with buttons
