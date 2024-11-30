@@ -1,0 +1,92 @@
+.navbar {
+    background-color: #ba302e; 
+    padding: 10px; 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+  }
+  
+  .navbar-list {
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    display: flex; 
+  }
+  
+  .navbar-list li {
+    margin-right: 20px; 
+  }
+  
+  .navbar-list li a {
+    text-decoration: none; 
+    color: #ffffff; 
+  }
+  
+  .navbar-list li a:hover {
+    text-decoration: underline; 
+  }
+  
+  .navbar-right {
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .navbar-right li {
+    margin-left: 20px; 
+  }
+  
+  .navbar-right li i {
+    color: white; 
+    cursor: pointer; 
+    margin-left: 10px; 
+    font-size: 24px; 
+  }
+  
+  .login-button {
+    background-color: red; 
+    color: white; 
+    border: none; 
+    padding: 5px 10px; 
+    cursor: pointer; 
+    margin-left: 10px; 
+  }
+  
+  .student-button {
+    background-color: orange; 
+    color: white; 
+    border: 2px solid white; 
+    padding: 5px 10px; 
+    cursor: pointer; 
+    margin-left: 10px;
+  }
+  
+  .parents-button {
+    background-color: cyan; 
+    color: white; 
+    border: 2px solid white; 
+    padding: 5px 10px; 
+    cursor: pointer; 
+    margin-left: 10px;
+  }
+  
+  .employee-button {
+    background-color: purple; 
+    color: white; 
+    border: 2px solid white; 
+    padding: 5px 10px; 
+    cursor: pointer; 
+    margin-left: 10px;
+  }
+  
+  .hod-button {
+    background-color: teal;
+    color: white; 
+    border: 2px solid white; 
+    padding: 5px 10px; 
+    cursor: pointer;
+    margin-left: 10px; 
+  }
+  

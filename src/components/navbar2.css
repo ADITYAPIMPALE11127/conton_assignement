@@ -1,0 +1,54 @@
+.navbar2 {
+background-color: #f8f9fa;
+padding: 20px;
+}
+
+.navbar2-content {
+display: flex;
+align-items: center;
+}
+
+.navbar2-left {
+display: flex;
+align-items: center;
+}
+
+.logo {
+width: 100px;
+margin-right: 10px;
+}
+
+.vertical-line {
+width: 2px;
+height: 60px;
+background-color: black;
+margin: 0 10px;
+}
+
+.institution-info {
+display: flex;
+flex-direction: column;
+font-size: 20px;
+}
+
+.navbar2-right {
+display: flex;
+margin-left: 180px;
+}
+
+.icons-container {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-left: 20px;
+}
+
+.icon {
+width: 100px;
+}
+
+.icon-title {
+margin-top: 5px;
+text-align: center;
+font-weight: 800;
+}

@@ -1,0 +1,72 @@
+.events-container {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #f8f9fa; /* Soft background color */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.events-title {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2.5em;
+    color: #343a40; /* Darker color for the title */
+    font-weight: bold;
+    text-transform: uppercase; /* Capitalize the title */
+}
+
+.event-card {
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.event-card:hover {
+    transform: scale(1.05); /* More pronounced zoom effect on hover */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+}
+
+.event-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+}
+
+.event-card:hover .event-image {
+    transform: scale(1.1); /* Slight zoom-in effect for images on hover */
+}
+
+.event-details {
+    padding: 20px;
+    text-align: center;
+}
+
+.event-details h3 {
+    margin: 15px 0;
+    font-size: 1.75em;
+    color: #495057; /* Softer dark color for text */
+    font-weight: bold;
+}
+
+.event-details p {
+    margin: 10px 0;
+    color: #6c757d; /* Light grey color for descriptions */
+    line-height: 1.6;
+}
+
+.event-details a {
+    color: #007bff; /* Bootstrap primary color for links */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.2s;
+}
+
+.event-details a:hover {
+    color: #0056b3; /* Darker shade for link hover */
+}

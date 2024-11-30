@@ -1,0 +1,52 @@
+.section-navigation {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.section-navigation button {
+    background-color: #4CAF50; 
+    color: white;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.section-navigation button:hover {
+    background-color: #45a049; 
+}
+
+.card {
+    margin-bottom: 20px; 
+}
+
+.card-body {
+    text-align: center; 
+}
+
+.card-title {
+    font-size: 1.25em; 
+    margin-bottom: 10px; 
+}
+
+.card-text {
+    margin-bottom: 5px; 
+    color: #666;
+}
+
+.tnp-member {
+    margin: 15px 0;
+}
+
+.tnp-member h4, .tnp-member h6 {
+    margin: 10px 0 5px;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.tnp-member p {
+    color: #666;
+}
